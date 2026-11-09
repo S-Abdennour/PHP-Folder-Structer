@@ -1,0 +1,14 @@
+# Composer packages (rebuilt with composer install)
+vendor/
+
+# Environment files with passwords
+.env
+
+# User uploads (keep the folder, ignore the files)
+uploads/*
+!uploads/.gitkeep
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
