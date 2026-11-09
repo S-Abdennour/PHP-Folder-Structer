@@ -1,0 +1,7 @@
+index.php file => is file root (first run file)
+
+assets folder => store css / js / images .
+config folder => store database (schema , connection) ad well app (name, base url , constant)
+includes folder => store resable code (header, footer)
+pages folder => store all web complete pages 
+uploads older => store user data uploads (photo, folder)
